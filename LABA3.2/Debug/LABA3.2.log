@@ -1,0 +1,25 @@
+﻿  TFormula.cpp
+c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(267): warning C4244: =: преобразование "TELEM" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(283): warning C4244: =: преобразование "TELEM" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(366): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(58): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(56): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(362): note: выполняется компиляция ссылки на экземпляр шаблон функции "T TTable<T>::GetValue(const std::string &)"
+          with
+          [
+              T=double
+          ]
+  c:\users\anastasya\source\repos\3stack\laba3.2\tformula.cpp(329): note: выполняется компиляция ссылки на экземпляр шаблон класс "TTable<double>"
+  TStack.cpp
+  main.cpp
+c:\users\anastasya\source\repos\3stack\laba3.2\main.cpp(3): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(94): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(93): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\anastasya\source\repos\3stack\laba3.2\main.cpp(58): note: выполняется компиляция ссылки на экземпляр шаблон функции "void TTable<double>::inputVarValuesAV(double *)"
+  c:\users\anastasya\source\repos\3stack\laba3.2\main.cpp(41): note: выполняется компиляция ссылки на экземпляр шаблон класс "TTable<double>"
+c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(106): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\anastasya\source\repos\3stack\laba3.2\ttable.h(103): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\anastasya\source\repos\3stack\laba3.2\main.cpp(52): note: выполняется компиляция ссылки на экземпляр шаблон функции "void TTable<double>::outputVarTable(void)"
+  Создание кода...
+  LABA3.2.vcxproj -> C:\Users\Anastasya\source\repos\3STACK\Debug\LABA3.2.exe
